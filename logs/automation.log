@@ -1,0 +1,27 @@
+07:19:52.076 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sunil\eclipse-workspace\seleniumwebdriver\OpencartV121\master.xml"
+07:20:08.352 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Starting TC001_AccountRegistrationTest ***************
+07:20:08.596 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on my account link
+07:20:09.292 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on register link
+07:20:09.298 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+07:20:11.358 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+07:20:11.417 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *******
+07:20:14.498 [main] INFO  testCases.TC002_LoginTest - *******Starting TC002_LoginTest*********
+07:20:16.883 [main] INFO  testCases.TC002_LoginTest - *******Finished TC002_LoginTest*********
+07:45:08.630 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sunil\eclipse-workspace\seleniumwebdriver\OpencartV121\master.xml"
+07:45:14.006 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Starting TC001_AccountRegistrationTest ***************
+07:45:14.421 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on my account link
+07:45:15.063 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on register link
+07:45:15.069 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+07:45:17.127 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+07:45:17.178 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *******
+07:45:20.033 [main] INFO  testCases.TC002_LoginTest - *******Starting TC002_LoginTest*********
+07:45:22.083 [main] INFO  testCases.TC002_LoginTest - *******Finished TC002_LoginTest*********
+07:50:36.297 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sunil\eclipse-workspace\seleniumwebdriver\OpencartV121\master.xml"
+07:50:41.064 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Starting TC001_AccountRegistrationTest ***************
+07:50:41.393 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on my account link
+07:50:41.879 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on register link
+07:50:41.882 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+07:50:43.741 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+07:50:43.789 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *******
+07:50:46.515 [main] INFO  testCases.TC002_LoginTest - *******Starting TC002_LoginTest*********
+07:50:48.665 [main] INFO  testCases.TC002_LoginTest - *******Finished TC002_LoginTest*********
